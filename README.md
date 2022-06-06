@@ -4,18 +4,22 @@
 
 1. [Array](#array)
    1. [Two Sum](#two-sum)
-   2. [Best Time to Buy and Sell Stock.py](#buy-sell-stock)
+   2. [Best Time to Buy and Sell Stock.py](#best-time-to-buy-and-sell-stock)
+   3. [Majority Element](#majority-element)
+   4. [Contains Duplicate](#contains-duplicate)
 
 # Array <a name="array"></a>
-1. [Two Sum](https://github.com/Oluwxtope/Grind-75/blob/main/Arrays/1%20Two%20Sum.py) <a name="two-sum"></a>  
+
+1. [Two Sum](https://github.com/Oluwxtope/Grind-75/blob/main/Arrays/1-two-sum.py) <a name="two-sum"></a>  
     > [Leetcode](https://leetcode.com/problems/two-sum/)  
     Initialize hashmap with element as key and index as value. Iterate through array checking if target number minus current element in hashmap. If yes, return indexes of both elements from hashmap
-2. [Best Time to Buy and Sell Stock](https://github.com/Oluwxtope/Grind-75/blob/main/Arrays/2%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) <a name="buy-sell-stock"></a>  
+2. [Best Time to Buy and Sell Stock](https://github.com/Oluwxtope/Grind-75/blob/main/Arrays/2-best-time-to-buy-and-sell-stock.py) <a name="best-time-to-buy-and-sell-stock"></a>  
     > [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  
     Use sliding window to keep track of start index and end = start + 1 index. Keep track of max and current profit starting at 0. If end - start less than 0, update start to end and end to start + 1. Else, if end - start > max profit, update max profit and move end to next element.
-3. [Majority Element](https://github.com/Oluwxtope/Grind-75/blob/main/Arrays/3%20Majority%20Element.py) <a name="majority-element"></a>  
+3. [Majority Element](https://github.com/Oluwxtope/Grind-75/blob/main/Arrays/3-majority-element.py) <a name="majority-element"></a>  
     > [Leetcode](https://leetcode.com/problems/majority-element/)  
     Use hashmap to keep count of how many times an element appears in array, then iterate over hashmap and return element with a count > ceiling(n/2)  
     More optimal solution would be using the Boyer-Moore algorithm. Initialize count to 0 and potential candidate to first element in array. Then increment or decrement count by iterating through the array and seeing if potential candidate is present or not. Once count reaches 0, change potential candidate to be present element. Return potential candidate left.
-    
-    
+4. [Contains Duplicate](https://github.com/Oluwxtope/Grind-75/blob/main/Arrays/4-contains-duplicate.py) <a name="contains-duplicate"></a>  
+    > [Leetcode](https://leetcode.com/problems/contains-duplicate/)  
+    Use hashmap to keep count of how many times an element appears while iterating through the array. If current element already in hashmap, return true. If loop concludes, return false as no duplicate elements.
