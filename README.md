@@ -15,5 +15,7 @@
     Use sliding window to keep track of start index and end = start + 1 index. Keep track of max and current profit starting at 0. If end - start less than 0, update start to end and end to start + 1. Else, if end - start > max profit, update max profit and move end to next element.
 3. [Majority Element](https://github.com/Oluwxtope/Grind-75/blob/main/Arrays/3%20Majority%20Element.py) <a name="majority-element"></a>  
     > [Leetcode](https://leetcode.com/problems/majority-element/)  
-    Use hashmap to keep count of how many times an element appears in array, then iterate over hashmap and return element with a count > ceiling(n/2)
+    Use hashmap to keep count of how many times an element appears in array, then iterate over hashmap and return element with a count > ceiling(n/2)  
+    More optimal solution would be using the Boyer-Moore algorithm. Initialize count to 0 and potential candidate to first element in array. Then increment or decrement count by iterating through the array and seeing if potential candidate is present or not. Once count reaches 0, change potential candidate to be present element. Return potential candidate left.
+    
     
