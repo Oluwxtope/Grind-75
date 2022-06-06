@@ -7,7 +7,8 @@
    2. [Best Time to Buy and Sell Stock.py](#best-time-to-buy-and-sell-stock)
    3. [Majority Element](#majority-element)
    4. [Contains Duplicate](#contains-duplicate)
-   5. [Move Zeroes](#move-zeroes)
+   5. [Meeting Rooms - Leetcode Premium](#meeting-rooms)
+   6. [Move Zeroes](#move-zeroes)
 
 # Array <a name="array"></a>
 
@@ -24,6 +25,9 @@
 4. [Contains Duplicate](https://github.com/Oluwxtope/Grind-75/blob/main/Arrays/4-contains-duplicate.py) <a name="contains-duplicate"></a>  
     > [Leetcode](https://leetcode.com/problems/contains-duplicate/)  
     Use hashmap to keep count of how many times an element appears while iterating through the array. If current element already in hashmap, return true. If loop concludes, return false as no duplicate elements.
-5. [Move Zeroes](https://github.com/Oluwxtope/Grind-75/blob/main/Arrays/5-move-zeroes.py) <a name="move-zeroes"></a>  
+5. Meeting Rooms<a name="meeting-rooms"></a>  
+    > [Leetcode](https://leetcode.com/problems/meeting-rooms/)  
+    *Premium leetcode required, didn't solve*
+6. [Move Zeroes](https://github.com/Oluwxtope/Grind-75/blob/main/Arrays/5-move-zeroes.py) <a name="move-zeroes"></a>  
     > [Leetcode](https://leetcode.com/problems/move-zeroes/)  
     Use 2 pointers starting from indices 0 and 1. 3 scenarios possible: both pointers = 0, move right one until find nonzero then swap; left pointer at 0 and right at nonzero, swap. left pointer at nonzero and right at zero, move both pointers 1 down array.
