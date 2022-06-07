@@ -9,6 +9,8 @@
    4. [Contains Duplicate](#contains-duplicate)
    5. [Meeting Rooms - Leetcode Premium](#meeting-rooms)
    6. [Move Zeroes](#move-zeroes)
+2. [Stack](#stack)
+   1. [Valid Parentheses](#valid-parentheses)
 
 # Arrays <a name="array"></a>
 
