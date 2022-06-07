@@ -48,3 +48,9 @@
 1. [Merge Two Sorted Lists](https://github.com/Oluwxtope/Grind-75/blob/main/3-linked-list/1-merge-two-sorted-lists.py) <a name="merge-two-sorted-lists"></a>  
     > [Leetcode](https://leetcode.com/problems/merge-two-sorted-lists/)  
     Initialize linkedlist called new and let a variable called prev point to it. Start while loop that checks if both lists 1 and 2 are not empty. 2 scenarios: val of curr node in list 1 less than that of 2 so let the next node of new be curr node of l1, and move to next node of l1; else, do the same for l2. Then set prev to next node of new and repeat. At end of loop, let prev.next equal to the non-empty list and return new.next as new.val is 0 and we started by changing new.next.
+
+# String <a name="string"></a>
+
+1. [Valid Palindrome](https://github.com/Oluwxtope/Grind-75/blob/main/4-string/1-valid-palindrome.py) <a name="valid-palindrome"></a>  
+    > [Leetcode](https://leetcode.com/problems/valid-palindrome/)  
+    Initalize start and end pointers on the array moving in opposite directions. If start and end pointing to alnum characters, check if they're equal (apply lowercase method) and return false if not else move pointers. If a pointer not pointing to alnum char, move the pointer. If loop finishes running, return true.
