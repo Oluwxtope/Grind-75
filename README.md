@@ -11,6 +11,9 @@
    6. [Move Zeroes](#move-zeroes)
 2. [Stack](#stack)
    1. [Valid Parentheses](#valid-parentheses)
+3. [Linked List](#linked-list)
+   1. [Merge Two Sorted Lists](#merge-two-sorted-lists)
+4. [String](#string)
 
 # Arrays <a name="array"></a>
 
@@ -39,3 +42,9 @@
 1. [Valid Parentheses](https://github.com/Oluwxtope/Grind-75/blob/main/2-stack/1-valid-parentheses.py) <a name="valid-parentheses"></a>  
     > [Leetcode](https://leetcode.com/problems/valid-parentheses/)  
     Intialize hashmap matching all types of open brackets as keys to closing brackets as values. Then intialize stack adt using array, pushing opening brackets and only popping last one when you encounter a matching closing bracket. If array is empty, then all matching brackets are positioned in valid locations.
+
+# Linked List <a name="linked-list"></a>
+
+1. [Merge Two Sorted Lists](https://github.com/Oluwxtope/Grind-75/blob/main/3-linked-list/1-merge-two-sorted-lists.py) <a name="merge-two-sorted-lists"></a>  
+    > [Leetcode](https://leetcode.com/problems/merge-two-sorted-lists/)  
+    Initialize linkedlist called new and let a variable called prev point to it. Start while loop that checks if both lists 1 and 2 are not empty. 2 scenarios: val of curr node in list 1 less than that of 2 so let the next node of new be curr node of l1, and move to next node of l1; else, do the same for l2. Then set prev to next node of new and repeat. At end of loop, let prev.next equal to the non-empty list and return new.next as new.val is 0 and we started by changing new.next.
