@@ -2,7 +2,7 @@
 
 # Table of Contents
 
-1. [Array](#array)
+1. [Arrays](#array)
    1. [Two Sum](#two-sum)
    2. [Best Time to Buy and Sell Stock.py](#best-time-to-buy-and-sell-stock)
    3. [Majority Element](#majority-element)
@@ -10,7 +10,7 @@
    5. [Meeting Rooms - Leetcode Premium](#meeting-rooms)
    6. [Move Zeroes](#move-zeroes)
 
-# Array <a name="array"></a>
+# Arrays <a name="array"></a>
 
 1. [Two Sum](https://github.com/Oluwxtope/Grind-75/blob/main/1-arrays/1-two-sum.py) <a name="two-sum"></a>  
     > [Leetcode](https://leetcode.com/problems/two-sum/)  
@@ -31,3 +31,9 @@
 6. [Move Zeroes](https://github.com/Oluwxtope/Grind-75/blob/main/1-arrays/5-move-zeroes.py) <a name="move-zeroes"></a>  
     > [Leetcode](https://leetcode.com/problems/move-zeroes/)  
     Use 2 pointers starting from indices 0 and 1. 3 scenarios possible: both pointers = 0, move right one until find nonzero then swap; left pointer at 0 and right at nonzero, swap. left pointer at nonzero and right at zero, move both pointers 1 down array.
+
+# Stack <a name="stack"></a>
+
+1. [Valid Parentheses](https://github.com/Oluwxtope/Grind-75/blob/main/2-stack/1-valid-parentheses.py) <a name="valid-parentheses"></a>  
+    > [Leetcode](https://leetcode.com/problems/valid-parentheses/)  
+    Intialize hashmap matching all types of open brackets as keys to closing brackets as values. Then intialize stack adt using array, pushing opening brackets and only popping last one when you encounter a matching closing bracket. If array is empty, then all matching brackets are positioned in valid locations.
