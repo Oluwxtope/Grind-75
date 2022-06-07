@@ -212,7 +212,7 @@
     > [Leetcode](https://leetcode.com/problems/meeting-rooms/)  
     *Premium leetcode required, didn't solve*
 
-6. [Move Zeroes](https://github.com/Oluwxtope/Grind-75/blob/main/1-arrays/5-move-zeroes.py)<a name="6-move-zeroes"></a>  
+6. [Move Zeroes](https://github.com/Oluwxtope/Grind-75/blob/main/1-arrays/6-move-zeroes.py)<a name="6-move-zeroes"></a>  
     > [Leetcode](https://leetcode.com/problems/move-zeroes/)  
     Use 2 pointers starting from indices 0 and 1. 3 scenarios possible: both pointers = 0, move right one until find nonzero then swap; left pointer at 0 and right at nonzero, swap. left pointer at nonzero and right at zero, move both pointers 1 down array.
 
