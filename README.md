@@ -55,3 +55,6 @@
 1. [Valid Palindrome](https://github.com/Oluwxtope/Grind-75/blob/main/4-string/1-valid-palindrome.py) <a name="valid-palindrome"></a>  
     > [Leetcode](https://leetcode.com/problems/valid-palindrome/)  
     Initalize start and end pointers on the array moving in opposite directions. If start and end pointing to alnum characters, check if they're equal (apply lowercase method) and return false if not else move pointers. If a pointer not pointing to alnum char, move the pointer. If loop finishes running, return true.
+2. [Valid Anagram](https://github.com/Oluwxtope/Grind-75/blob/main/4-string/2-valid-anagram.py) <a name="valid-anagram"></a>  
+    > [Leetcode](https://leetcode.com/problems/valid-anagram/)  
+    Initialize hash map to keep track of count of letters in first string, repeat for second string. Then iterate through both hash maps checking if a char is present in one and not the other or if count of characters in one not equal to count in other and return false. if all loops finish running, return true.
