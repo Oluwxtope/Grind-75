@@ -14,6 +14,7 @@
 3. [Linked List](#linked-list)
    1. [Merge Two Sorted Lists](#merge-two-sorted-lists)
 4. [String](#string)
+   1. [Valid Palindrome](#valid-palindrome)
 
 # Arrays <a name="array"></a>
 
