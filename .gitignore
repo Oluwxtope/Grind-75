@@ -2,3 +2,6 @@
 __pycache__
 markdown-cheat-sheet.md
 links.txt
+create_toc.py
+TOC.md
+QUESTIONS.md
