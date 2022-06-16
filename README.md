@@ -1,6 +1,6 @@
 # Grind 75  
 
-# Table of Contents
+## Table of Contents
 
 1. [Array](#1-array)
    1. ~~[Two Sum](#1-two-sum)~~
@@ -189,7 +189,7 @@
 17. [Queue](#17-queue)
     1.  [Design Hit Counter](#1-design-hit-counter)
 
-# Array <a name="1-array"></a>
+## Array <a name="1-array"></a>
 
 1. [Two Sum](https://github.com/Oluwxtope/Grind-75/blob/main/1-arrays/1-two-sum.py)<a name="1-two-sum"></a>  
     > [Leetcode](https://leetcode.com/problems/two-sum/)  
@@ -288,7 +288,7 @@
     > [Leetcode](https://leetcode.com/problems/sliding-window-maximum/)  
     Yet to solve
 
-# Stack <a name="2-stack"></a>
+## Stack <a name="2-stack"></a>
 
 1. [Valid Parentheses](https://github.com/Oluwxtope/Grind-75/blob/main/2-stack/1-valid-parentheses.py) <a name="1-valid-parentheses"></a>  
     > [Leetcode](https://leetcode.com/problems/valid-parentheses/)  
@@ -346,7 +346,7 @@
     > [Leetcode](https://leetcode.com/problems/longest-valid-parentheses/)  
     Yet to solve
 
-# Linked List <a name="3-linked-list"></a>
+## Linked List <a name="3-linked-list"></a>
 
 1. [Merge Two Sorted Lists](https://github.com/Oluwxtope/Grind-75/blob/main/3-linked-list/1-merge-two-sorted-lists.py) <a name="1-merge-two-sorted-lists"></a>  
     > [Leetcode](https://leetcode.com/problems/merge-two-sorted-lists/)  
@@ -404,7 +404,7 @@
     > [Leetcode](https://leetcode.com/problems/reverse-nodes-in-k-group/)  
     Yet to solve
 
-# String <a name="4-string"></a>
+## String <a name="4-string"></a>
 
 1. [Valid Palindrome](https://github.com/Oluwxtope/Grind-75/blob/main/4-string/1-valid-palindrome.py)<a name="valid-palindrome"></a>  
     > [Leetcode](https://leetcode.com/problems/valid-palindrome/)  
@@ -462,7 +462,7 @@
     > [Leetcode](https://leetcode.com/problems/palindrome-pairs/)  
     Yet to solve
 
-# Binary Tree <a name="5-binary-tree"></a>
+## Binary Tree <a name="5-binary-tree"></a>
 
 1. [Invert Binary Tree](https://github.com/Oluwxtope/Grind-75/blob/main/)<a name="1-invert-binary-tree"></a>
     > [Leetcode](https://leetcode.com/problems/invert-binary-tree/)  
@@ -536,7 +536,7 @@
     > [Leetcode](https://leetcode.com/problems/binary-tree-maximum-path-sum/)  
     Yet to solve
 
-# Binary Search <a name="6-binary-search"></a>
+## Binary Search <a name="6-binary-search"></a>
 
 1. [Binary Search](https://github.com/Oluwxtope/Grind-75/blob/main/)<a name="1-binary-search"></a>
     > [Leetcode](https://leetcode.com/problems/binary-search/)  
@@ -570,7 +570,7 @@
     > [Leetcode](https://leetcode.com/problems/median-of-two-sorted-arrays/)  
     Yet to solve
 
-# Graph <a name="7-graph"></a>
+## Graph <a name="7-graph"></a>
 
 1. [Flood Fill](https://github.com/Oluwxtope/Grind-75/blob/main/)<a name="1-flood-fill"></a>
     > [Leetcode](https://leetcode.com/problems/flood-fill/)  
@@ -656,7 +656,7 @@
     > [Leetcode](https://leetcode.com/problems/bus-routes/)  
     Yet to solve
 
-# Dynamic Programming <a name="8-dynamic-programming"></a>
+## Dynamic Programming <a name="8-dynamic-programming"></a>
 
 1. [Maximum Subarray](https://github.com/Oluwxtope/Grind-75/blob/main/)<a name="1-maximum-subarray"></a>
     > [Leetcode](https://leetcode.com/problems/maximum-subarray/)  
@@ -706,7 +706,7 @@
     > [Leetcode](https://leetcode.com/problems/combination-sum-iv/)  
     Yet to solve
 
-# Binary Search Tree <a name="9-binary-search-tree"></a>
+## Binary Search Tree <a name="9-binary-search-tree"></a>
 
 1. [Lowest Common Ancestor of a Binary Search Tree](https://github.com/Oluwxtope/Grind-75/blob/main/)<a name="1-lowest-common-ancestor-of-a-binary-search-tree"></a>
     > [Leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)  
@@ -728,7 +728,7 @@
     > [Leetcode](https://leetcode.com/problems/inorder-successor-in-bst/)  
     Yet to solve
 
-# Hash Table <a name="10-hash-table"></a>
+## Hash Table <a name="10-hash-table"></a>
 
 1. [Ransom Note](https://github.com/Oluwxtope/Grind-75/blob/main/)<a name="1-ransom-note"></a>
     > [Leetcode](https://leetcode.com/problems/ransom-note/)  
@@ -742,7 +742,7 @@
     > [Leetcode](https://leetcode.com/problems/first-missing-positive/)  
     Yet to solve
 
-# Binary <a name="11-binary"></a>
+## Binary <a name="11-binary"></a>
 
 1. [Add Binary](https://github.com/Oluwxtope/Grind-75/blob/main/)<a name="1-add-binary"></a>
     > [Leetcode](https://leetcode.com/problems/add-binary/)  
@@ -772,7 +772,7 @@
     > [Leetcode](https://leetcode.com/problems/find-the-duplicate-number/)  
     Yet to solve
 
-# Math <a name="12-math"></a>
+## Math <a name="12-math"></a>
 
 1. [Roman to Integer](https://github.com/Oluwxtope/Grind-75/blob/main/)<a name="1-roman-to-integer"></a>
     > [Leetcode](https://leetcode.com/problems/roman-to-integer/)  
@@ -794,7 +794,7 @@
     > [Leetcode](https://leetcode.com/problems/reverse-integer/)  
     Yet to solve
 
-# Heap <a name="13-heap"></a>
+## Heap <a name="13-heap"></a>
 
 1. [K Closest Points to Origin](https://github.com/Oluwxtope/Grind-75/blob/main/)<a name="1-k-closest-points-to-origin"></a>
     > [Leetcode](https://leetcode.com/problems/k-closest-points-to-origin/)  
@@ -828,7 +828,7 @@
     > [Leetcode](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)  
     Yet to solve
 
-# Trie <a name="14-trie"></a>
+## Trie <a name="14-trie"></a>
 
 1. [Implement Trie (Prefix Tree)](https://github.com/Oluwxtope/Grind-75/blob/main/)<a name="1-implement-trie-(prefix-tree)"></a>
     > [Leetcode](https://leetcode.com/problems/implement-trie-(prefix-tree)/)  
@@ -846,7 +846,7 @@
     > [Leetcode](https://leetcode.com/problems/design-in-memory-file-system/)  
     Yet to solve
 
-# Recursion <a name="15-recursion"></a>
+## Recursion <a name="15-recursion"></a>
 
 1. [Permutations](https://github.com/Oluwxtope/Grind-75/blob/main/)<a name="1-permutations"></a>
     > [Leetcode](https://leetcode.com/problems/permutations/)  
@@ -872,7 +872,7 @@
     > [Leetcode](https://leetcode.com/problems/n-queens/)  
     Yet to solve
 
-# Matrix <a name="16-matrix"></a>
+## Matrix <a name="16-matrix"></a>
 
 1. [Spiral Matrix](https://github.com/Oluwxtope/Grind-75/blob/main/)<a name="1-spiral-matrix"></a>
     > [Leetcode](https://leetcode.com/problems/spiral-matrix/)  
@@ -894,7 +894,7 @@
     > [Leetcode](https://leetcode.com/problems/sudoku-solver/)  
     Yet to solve
 
-# Queue <a name="17-queue"></a>
+## Queue <a name="17-queue"></a>
 
 1. [Design Hit Counter](https://github.com/Oluwxtope/Grind-75/blob/main/)<a name="1-design-hit-counter"></a>
     > [Leetcode](https://leetcode.com/problems/design-hit-counter/)  
