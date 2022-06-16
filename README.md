@@ -3,14 +3,14 @@
 # Table of Contents
 
 1. [Array](#1-array)
-   1. [Two Sum](#1-two-sum)
-   2. [Best Time to Buy and Sell Stock](#2-best-time-to-buy-and-sell-stock)
-   3. [Majority Element](#3-majority-element)
-   4. [Contains Duplicate](#4-contains-duplicate)
+   1. ~~[Two Sum](#1-two-sum)~~
+   2. ~~[Best Time to Buy and Sell Stock](#2-best-time-to-buy-and-sell-stock)~~
+   3. ~~[Majority Element](#3-majority-element)~~
+   4. ~~[Contains Duplicate](#4-contains-duplicate)~~
    5. [Meeting Rooms](#5-meeting-rooms)
-   6. [Move Zeroes](#6-move-zeroes)
+   6. ~~[Move Zeroes](#6-move-zeroes)~~
    7. [Squares of a Sorted Array](#7-squares-of-a-sorted-array)
-   8. [Insert Interval](#8-insert-interval)
+   8. ~~[Insert Interval](#8-insert-interval)~~
    9. [3Sum](#9-3sum)
    10. [Product of Array Except Self](#10-product-of-array-except-self)
    11. [Combination Sum](#11-combination-sum)
@@ -28,7 +28,7 @@
    23. [Employee Free Time](#23-employee-free-time)
    24. [Sliding Window Maximum](#24-sliding-window-maximum)
 2. [Stack](#2-stack)
-   1. [Valid Parentheses](#1-valid-parentheses)
+   1. ~~[Valid Parentheses](#1-valid-parentheses)~~
    2. [Implement Queue using Stacks](#2-implement-queue-using-stacks)
    3. [Min Stack](#3-min-stack)
    4. [Backspace String Compare](#4-backspace-string-compare)
@@ -43,7 +43,7 @@
    13. [Maximum Frequency Stack](#13-maximum-frequency-stack)
    14. [Longest Valid Parentheses](#14-longest-valid-parentheses)
 3. [Linked List](#3-linked-list)
-   1. [Merge Two Sorted Lists](#1-merge-two-sorted-lists)
+   1. ~~[Merge Two Sorted Lists](#1-merge-two-sorted-lists)~~
    2. [Linked List Cycle](#2-linked-list-cycle)
    3. [Reverse Linked List](#3-reverse-linked-list)
    4. [Middle of the Linked List](#4-middle-of-the-linked-list)
@@ -58,8 +58,8 @@
    13. [Rotate List](#13-rotate-list)
    14. [Reverse Nodes in k-Group](#14-reverse-nodes-in-k-group)
 4. [String](#4-string)
-   1. [Valid Palindrome](#1-valid-palindrome)
-   2. [Valid Anagram](#2-valid-anagram)
+   1. ~~[Valid Palindrome](#1-valid-palindrome)~~
+   2. ~~[Valid Anagram](#2-valid-anagram)~~
    3. [Longest Palindrome](#3-longest-palindrome)
    4. [Longest Common Prefix](#4-longest-common-prefix)
    5. [Longest Substring Without Repeating Characters](#5-longest-substring-without-repeating-characters)
