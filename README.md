@@ -220,9 +220,9 @@
     > [Leetcode](https://leetcode.com/problems/squares-of-a-sorted-array/)  
     Yet to solve
 
-8. [Insert Interval](https://github.com/Oluwxtope/Grind-75/blob/main/)<a name="8-insert-interval"></a>
+8. [Insert Interval](https://github.com/Oluwxtope/Grind-75/blob/main/1-arrays/8-insert-interval.py)<a name="8-insert-interval"></a>
     > [Leetcode](https://leetcode.com/problems/insert-interval/)  
-    Yet to solve
+    Create an array to store result. Iterate through intervals and check for 3 scenarios: if last num in new interval less than first num in curr element, append new interval and return result + rest of intervals; if first num in new interval greater than last num in curr element, append curr element; if none of the above, there is overlap thus update new interval numbers and continue iterating. at the end, append new interval and return res (if new interval was inserted, result would have been returned in first scenario).
 
 9. [3Sum](https://github.com/Oluwxtope/Grind-75/blob/main/)<a name="9-3sum"></a>
     > [Leetcode](https://leetcode.com/problems/3sum/)  
