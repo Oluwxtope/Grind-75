@@ -12,7 +12,7 @@
    7. [Squares of a Sorted Array](#7-squares-of-a-sorted-array)
    8. ~~[Insert Interval](#8-insert-interval)~~
    9. [3Sum](#9-3sum)
-   10. [Product of Array Except Self](#10-product-of-array-except-self)
+   10. ~~[Product of Array Except Self](#10-product-of-array-except-self)~~
    11. [Combination Sum](#11-combination-sum)
    12. [Merge Intervals](#12-merge-intervals)
    13. [Sort Colors](#13-sort-colors)
