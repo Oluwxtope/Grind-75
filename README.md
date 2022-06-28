@@ -228,9 +228,9 @@
     > [Leetcode](https://leetcode.com/problems/3sum/)  
     Yet to solve
 
-10. [Product of Array Except Self](https://github.com/Oluwxtope/Grind-75/blob/main/)<a name="10-product-of-array-except-self"></a>
+10. [Product of Array Except Self](https://github.com/Oluwxtope/Grind-75/blob/main/1-arrays/10-product-of-array-except-self.py)<a name="10-product-of-array-except-self"></a>
     > [Leetcode](https://leetcode.com/problems/product-of-array-except-self/)  
-    Yet to solve
+    Initialize array to store results. Initialize prefix variable = 1. Start iterating through nums array and store the prefix in results array, then multiply prefix by current element before moving to next element. That way each index in the result array contains all numbers that came before that index in nums array multiplied. Repeat the same backwards with postfix that stores the suffix of numbers that came after the element. Return results array.
 
 11. [Combination Sum](https://github.com/Oluwxtope/Grind-75/blob/main/)<a name="11-combination-sum"></a>
     > [Leetcode](https://leetcode.com/problems/combination-sum/)  
@@ -899,4 +899,3 @@
 1. [Design Hit Counter](https://github.com/Oluwxtope/Grind-75/blob/main/)<a name="1-design-hit-counter"></a>
     > [Leetcode](https://leetcode.com/problems/design-hit-counter/)  
     Yet to solve
-
